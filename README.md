@@ -1,3 +1,3 @@
 # Portfolio Link
 
-http://rahul7k.netlify.app/
+(https://rahul7k.github.io/portfolio/)
